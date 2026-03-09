@@ -9,7 +9,15 @@ A landing page project built as part of **The Odin Project** Foundations Course.
 
 ## Getting Started
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sicken1/Project-Landing-Page.git
+   ```
+2. Navigate into the project folder:
+   ```bash
+   cd your-repo-name
+   ```
+3. Open `index.html` in your browser.
 
 ## Acknowledgements
 
